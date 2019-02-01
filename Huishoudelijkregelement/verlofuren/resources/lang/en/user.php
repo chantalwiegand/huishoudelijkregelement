@@ -1,0 +1,27 @@
+<?php
+return [
+    'Firstname' => 'First name',
+    'Prefix' => 'Prefix',
+    'Lastname' => 'Last name',
+    'Email' => 'E-mail',
+    'Department' => 'Department',
+    'Role' => 'Role',
+    'View' => 'View',
+    'Edit' => 'Edit',
+    'Delete' => 'Delete',
+    'Edituser' => 'Edit User',
+    'Availablehours' => 'Available hours',
+    'Hoursofworkaweek' => 'Hours of work a week',
+    'Selectarole' => 'Select a role',
+    'selectadepartment' => 'Select a department',
+    'Submit' => 'Submit',
+    'Createuser' => 'Create a user',
+    'Password' => 'password',
+    'Changepassword' => 'Change password',
+    'Oldpassword' => 'Old password',
+    'Password' => 'Password',
+    'Confirmpassword' => 'Confirm password',
+    'Leavehours' => 'Leave hours',
+    'Usedleavehours' => 'Used leave hours',
+
+];
